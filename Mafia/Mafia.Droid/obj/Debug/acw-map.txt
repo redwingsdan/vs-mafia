@@ -1,0 +1,4 @@
+Mafia.Droid.MainActivity, Mafia.Droid;md559aa0d3a78411350459632093476c991.MainActivity
+Mafia.Droid.MainActivity, Mafia.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md559aa0d3a78411350459632093476c991.MainActivity
+Mafia.Droid.MainActivity;md559aa0d3a78411350459632093476c991.MainActivity
+mafia.droid.MainActivity;md559aa0d3a78411350459632093476c991.MainActivity
